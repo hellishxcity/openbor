@@ -1,0 +1,109 @@
+# Kanan "Scorpion" Jaxon — initial player model scaffold
+# Original character. This file is not yet runtime-ready: sprite frames,
+# hitboxes, complete animation coverage, and engine validation remain.
+name Kanan
+type player
+health 240
+speed 5
+# Keep the first prototype's jump and movement conservative for
+# lane-based beat-'em-up combat. Tune after device playtesting.
+jumpheight 4
+jumpspeed 6
+antigravity -2
+
+# Shared art canvas target: 128x128 pixels, feet anchored at x=64,y=116.
+# Sprite files listed below are planned frame paths; they must be created
+# before loading this model in OpenBOR.
+
+anim idle
+    loop 1
+    delay 12
+    offset 64 116
+    frame data/chars/kanan/idle_01.png
+    frame data/chars/kanan/idle_02.png
+
+anim walk
+    loop 1
+    delay 8
+    offset 64 116
+    frame data/chars/kanan/walk_01.png
+    frame data/chars/kanan/walk_02.png
+    frame data/chars/kanan/walk_03.png
+    frame data/chars/kanan/walk_04.png
+
+anim jump
+    loop 0
+    delay 8
+    offset 64 116
+    frame data/chars/kanan/jump_01.png
+    frame data/chars/kanan/jump_02.png
+
+anim land
+    loop 0
+    delay 6
+    offset 64 116
+    frame data/chars/kanan/land_01.png
+
+anim pain
+    loop 0
+    delay 8
+    offset 64 116
+    frame data/chars/kanan/hurt_01.png
+    frame data/chars/kanan/hurt_02.png
+
+anim fall
+    loop 0
+    delay 8
+    offset 64 116
+    frame data/chars/kanan/knockdown_01.png
+    frame data/chars/kanan/knockdown_02.png
+
+anim rise
+    loop 0
+    delay 8
+    offset 64 116
+    frame data/chars/kanan/recover_01.png
+    frame data/chars/kanan/recover_02.png
+
+# Five-hit chain slots are reserved now. Attack boxes and damage values
+# will be authored after the first clean combat pose set is available.
+anim attack1
+    loop 0
+    delay 5
+    offset 64 116
+    frame data/chars/kanan/punch_01.png
+    frame data/chars/kanan/punch_02.png
+
+anim attack2
+    loop 0
+    delay 5
+    offset 64 116
+    frame data/chars/kanan/punch_03.png
+    frame data/chars/kanan/punch_04.png
+
+anim attack3
+    loop 0
+    delay 5
+    offset 64 116
+    frame data/chars/kanan/kick_01.png
+    frame data/chars/kanan/kick_02.png
+
+anim attack4
+    loop 0
+    delay 5
+    offset 64 116
+    frame data/chars/kanan/kick_03.png
+    frame data/chars/kanan/kick_04.png
+
+anim attack5
+    loop 0
+    delay 7
+    offset 64 116
+    frame data/chars/kanan/scorpion_strike_01.png
+    frame data/chars/kanan/scorpion_strike_02.png
+
+# Next required work:
+# 1. Produce original transparent frame art at the shared canvas size.
+# 2. Add body/attack boxes and attack damage/knockback per frame.
+# 3. Add block, dodge, run, grab/throw, victory, and remaining reactions.
+# 4. Load this model in the pinned OpenBOR runtime and fix parser/runtime errors.
