@@ -1,0 +1,25 @@
+# Streets of Violence — model registry
+# Player models load at startup because they must be available to the
+# character-select/story-start flow. Enemy models are registered for
+# automatic loading when levels reference them.
+#
+# NOTE: This registry is a configuration scaffold. The referenced model
+# definitions and sprite assets must be completed and engine-tested
+# before this module is considered runnable.
+
+maxattacks       5
+maxattacktypes   10
+maxfreespecials  8
+maxfollows       4
+
+load Kanan  data/chars/kanan/kanan.txt
+load Jaylen data/chars/jaylen/jaylen.txt
+load Shai   data/chars/shai/shai.txt
+load Jenni  data/chars/jenni/jenni.txt
+load Nona   data/chars/nona/nona.txt
+
+know DocksideGrunt data/chars/enemies/dockside_grunt.txt
+know StreetViper   data/chars/enemies/street_viper.txt
+know IronGuard     data/chars/enemies/iron_guard.txt
+know Brock         data/chars/enemies/brock.txt
+know Brick         data/chars/bosses/brick.txt
