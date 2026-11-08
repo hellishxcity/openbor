@@ -127,10 +127,18 @@ Random should mean varied, not arbitrary: each mission needs a known eligible st
 - Reward: merchant discount, upgrade currency, or a useful supply item.
 - Character angle: Nona uses her past experience to recognize and challenge exploitation.
 
-### NON-03: No Easy Way Out
-- Trigger: Nona discovers a former associate trapped in a dangerous hideout.
-- Objective: reach the person, defeat the guards, and decide whether to help them escape or secure a valuable gang record.
-- Reward: helping the person can create a future ally; securing the record can reveal a secret route. The choice should be explicit and neither option should block the main campaign.
+### NON-03: No One Gets Left Behind
+**User-approved concept:** Nona must protect a woman and escort her alive to a specified destination.
+- Trigger: Nona encounters a woman being hunted by a gang in an optional side area.
+- Objective: escort the woman through connected combat areas to the marked safe destination.
+- Threat model: enemies are allowed to target and damage the woman. She is not invulnerable; if her health reaches zero, the mission fails immediately.
+- Core skill test: Nona must eliminate attackers quickly and prevent them from reaching or surrounding the woman. Enemy waves should use readable approach lanes and fair warning cues, but should pressure the player from more than one direction where the layout allows.
+- Escort behavior: the woman follows Nona along a tested route, pauses safely when blocked, and must physically reach the destination with Nona. Nona arriving alone never counts as success.
+- Success: both Nona and the living woman enter the safe destination zone.
+- Failure: the woman dies, or the mission is explicitly abandoned. Failure never blocks the main stage.
+- Reward: one extra life, granted once per save slot for this mission. Display the life-up clearly and prevent repeat farming on replay.
+- Character angle: Nona's grappling and close-range control make her the protector who clears threats before they can reach the civilian.
+
 
 ## Reward policy
 
