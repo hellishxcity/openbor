@@ -6,14 +6,14 @@ Status: planning framework based on the user's direction. Exact attack names, ch
 Preserve co-op combat and character dialogue as first-class parts of Streets of Violence. These are core creative assets, not disposable chat ideas. Every approved name, line, move sequence, animation reference, and revision should be recorded here or in a linked dedicated file immediately.
 
 ## Co-op attack target
-The user wants approximately **20 co-op attacks/moves**, covering the cast rather than only Kanan's two previously discussed pairings.
+The user has approved expanding the target so **every playable character has a co-op attack pairing with every other playable character**. The full roster is five starting fighters plus the two post-game unlockables, Romeo Wells and Mei Lin.
 
 ### Proposed roster scope and count
-The five starting fighters are Kanan, Jaylen, Shai, Jenni, and Nona. There are 10 unique two-character pairings among five characters. A useful planning target is **two signature co-op attacks per pairing = 20 total**.
+The full playable roster is Kanan, Jaylen, Shai, Jenni, Nona, Romeo Wells, and Mei Lin. With every unordered pair represented, seven characters produce **21 unique pairings** (7 × 6 ÷ 2). The planning target is **two signature co-op attacks per pairing = 42 total attacks**. The user approved the all-roster scope and this total on 2026-11-08.
 
-This is a proposed organizing method, not a claim that the user has approved exactly two per pair. The user should confirm whether Romeo and Mei (post-game unlockables) should also receive co-op pairings in the first 20 or in a later expansion. If all seven characters are included, the number of possible unique pairs is 21.
+The five starting fighters account for 10 pairings and 20 attacks. Adding Romeo and Mei creates 11 further pairings and 22 further attacks. Romeo and Mei's attacks are available when those characters become playable after the player beats the main Story Mode. The exact timing/control model for executing team attacks remains an open design decision; this count does not itself imply local or online multiplayer.
 
-### Ten starting-roster pairings (planning matrix)
+### All 21 roster pairings (approved scope; two attacks planned per pair)
 1. Kanan + Jaylen — brotherly power/precision combination; previously identified as a priority.
 2. Kanan + Shai — coordinated martial arts/kickboxing and tech-assisted teamwork; previously identified as a priority.
 3. Kanan + Jenni — fast martial arts plus taekwondo timing.
@@ -24,6 +24,19 @@ This is a proposed organizing method, not a claim that the user has approved exa
 8. Shai + Jenni — synchronized kickboxing/taekwondo speed and precision.
 9. Shai + Nona — fast pressure into grappling finish.
 10. Jenni + Nona — technical strikes and close-range grappling control.
+11. Kanan + Romeo — fast martial arts paired with mercenary precision.
+12. Kanan + Mei — adaptable martial arts paired with undercover agility.
+13. Jaylen + Romeo — heavyweight throws paired with mercenary counters.
+14. Jaylen + Mei — power grappling paired with evasive strikes.
+15. Shai + Romeo — coordinated kickboxing paired with tactical pressure.
+16. Shai + Mei — synchronized striking and agile feints.
+17. Jenni + Romeo — disciplined taekwondo paired with ruthless hired-fighter tactics.
+18. Jenni + Mei — family-linked teamwork, held for the correct story/unlock timeline.
+19. Nona + Romeo — grappling control paired with hard-hitting counters.
+20. Nona + Mei — close-range grappling paired with quick evasive attacks.
+21. Romeo + Mei — a distinct partnership reflecting their bonus-story relationship.
+
+**Count check:** 21 pairings × 2 attacks each = **42 co-op attacks**.
 
 ### Each co-op attack entry must record
 - Unique attack name (do not recycle another game's move names).
@@ -120,7 +133,6 @@ Only preserve lines that are actually present in recovered history. Do not inven
 - User approval:
 
 ## Next review gates
-1. Confirm whether the first ~20 attacks cover the five starting characters only, with Romeo/Mei co-op moves later, or include the unlockable pairings now.
-2. Confirm whether "co-op" means AI-assisted team attacks in single-player, local two-player, online multiplayer, or a combination. Do not assume.
-3. Build and review the Kanan + Jaylen and Kanan + Shai attack concepts first, since those pairings were previously prioritized.
-4. Create a full dialogue index by stage and character, then fill exact lines from recovered history before writing new dialogue.
+1. Decide whether team attacks are triggered by an AI partner in single-player, local two-player, online multiplayer, or a combination. Do not assume multiplayer.
+2. Build and review the Kanan + Jaylen and Kanan + Shai attack concepts first, since those pairings were previously prioritized.
+3. Create a full dialogue index by stage and character, then fill exact lines from recovered history before writing new dialogue.
