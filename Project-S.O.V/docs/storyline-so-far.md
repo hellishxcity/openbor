@@ -127,3 +127,86 @@ These mission titles and prototypes are documented, but the complete dialogue an
 
 ---
 This is the story recovered so far, not a claim that the entire screenplay is complete. New canon should be added only when confirmed; proposed connective scenes must be labeled as drafts.
+
+
+## Stage 1 — Dockside District: the ledger clue and secret-mission hooks (draft, 2026-11-09)
+
+**Status:** New connective story material drafted for review. It builds on the established Stage 1 setting, Brick's role as the main boss, and the already-listed character secret missions. The exact clue wording, scene dialogue, and mission objectives are not yet locked canon.
+
+### After the fight — the ledger
+
+The gang collector drops a weather-stained ledger as Kanan and his partner finish the encounter. Kanan picks it up and flips through pages filled with dock numbers, shipment dates, protection payments, and initials. Most entries look like ordinary gang bookkeeping until he notices the same unusual notation repeated beside several shipments:
+
+**“U-6 / NIGHT TRANSFER / NO SURFACE MANIFEST.”**
+
+A rough hand-drawn mark in the margin resembles a maintenance access symbol. A second note reads:
+
+**“Move it below street level. Keep the dock crews quiet.”**
+
+The ledger does not explain what is being moved or who ordered it. It does establish that Ali's operation is using the docks to move something through an unlisted route beneath the city. Kanan keeps the ledger as evidence. The next stage follows the money and names in the book into the city's wider criminal network; the “U-6” notation becomes a clue that can be recognized again when the campaign reaches **Stage 6 — Underground**.
+
+### Partner-specific version: Kanan + Jaylen
+
+Jaylen wipes his hands and notices the ledger.
+
+**Jaylen:** “Please tell me that's the list of people who owe us money.”
+
+Kanan turns the book so Jaylen can see the repeated U-6 notation.
+
+**Jaylen:** “U-6? That's not a dock number I've ever seen.”
+
+Kanan taps the words “below street level.”
+
+**Jaylen:** “So whatever they're moving, they're hiding it under the city. Great. Just what we needed.”
+
+Kanan closes the ledger and gives Jaylen a short nod.
+
+**Jaylen:** “Right. We keep this. And next time, let me know before you go collecting evidence with your face.”
+
+Kanan gives him a dry look. Jaylen grins, then follows him out.
+
+### Partner-specific version: Kanan + Shai
+
+Shai steps beside Kanan as he studies the ledger. She notices the repeated U-6 notation and takes a closer look.
+
+**Shai:** “That's not a shipping code. Not one the port uses, anyway.”
+
+Kanan points to “below street level.”
+
+**Shai:** “A route underneath the docks? That's why the records don't match.”
+
+Kanan looks toward her, waiting.
+
+**Shai:** “Don't worry. I can trace the code. But you're not going down there alone.”
+
+Kanan gives her a small, reassuring nod.
+
+**Shai:** “That wasn't a request, Kanan.”
+
+He almost smiles. She folds the page carefully and hands the ledger back to him.
+
+### Secret-mission hooks
+
+These optional hooks branch from the same Stage 1 aftermath. They do not replace the main story clue, and the player can complete the main campaign without doing them.
+
+#### Kanan — “Red Ledger”
+A frightened dock clerk quietly approaches Kanan after recognizing the ledger. He says the collector was not carrying the only copy: a second, red-bound account book is being taken to a nearby gang safe point before dawn. It contains names of residents being charged protection money and records of payments to the gang.
+
+**Draft objective:** Find the gang courier, recover the red-bound ledger, and escape before reinforcements seal the route.
+
+**Story purpose:** Give Kanan a personal, evidence-driven mission that shows his quiet protectiveness. The recovered names can later help the fighters identify people being targeted by Ali's organization.
+
+#### Shai — “Safe Signal”
+A dockworker approaches Shai because the gang has confiscated a small encrypted radio relay used by the dock crew to warn one another when gang enforcers arrive. Without it, several workers are trapped in a sealed loading area and cannot call for help. Shai recognizes that the relay can be restored if she retrieves its missing power cell and reconnects it.
+
+**Draft objective:** Infiltrate the nearby container lane, recover the relay's power cell, reactivate the signal, and guide the trapped workers to safety.
+
+**Story purpose:** Highlight Shai's technical skills and concern for ordinary people. The relay's recovered signal log may contain a brief transmission mentioning the same “U-6” route, reinforcing the main clue without giving away the Underground chapter early.
+
+### Continuity and gameplay notes
+- The main ledger discovery occurs regardless of which partner the player selected.
+- Partner-specific dialogue changes to match the selected duo; do not play Jaylen's or Shai's version when that character is absent.
+- Kanan's “Red Ledger” and Shai's “Safe Signal” are already established secret-mission titles; these are proposed Stage 1 hooks and objectives, pending user approval.
+- Completing either secret mission is optional and should not be required to understand the main campaign.
+- Keep the meaning of “U-6” partly unresolved until Stage 6 — Underground.
+- Do not imply that the ledger alone proves who Ali's suppliers are; it is a lead for further investigation.
