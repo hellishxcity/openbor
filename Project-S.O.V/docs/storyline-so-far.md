@@ -214,11 +214,11 @@ A dockworker approaches Shai because the gang has confiscated a small encrypted 
 
 ### Shai's Stage 1 secret mission — “Safe Signal” (expanded draft, 2026-11-09)
 
-**Status:** User approved connecting the ledger's forced-worker evidence to a personal rescue mission for Shai. This mission sketch is a draft; Jay Brooks is the rescued person, while exact dialogue and the full nature of her history with Shai remain open for refinement.
+**Status:** User approved connecting the ledger's forced-worker evidence to a personal rescue mission for Shai. This mission sketch is a draft; Jade Brooks is the rescued person, while exact dialogue and the full nature of her history with Shai remain open for refinement.
 
 **Trigger:** Available after the Stage 1 Dockside ledger discovery if Shai is selected as the main fighter or partner. The ledger contains a name Shai recognizes beside repeated protection-payment entries and a coded reference to the old loading station.
 
-**Personal connection:** The name is Jay Brooks, a dockworker Shai knows and cares about. Jay has quietly helped local workers stay safe from gang pressure and has been taken along with several other workers after refusing to cooperate with Ali's operation. Jay is established as a recurring supporting ally, with her next major appearance planned for Stage 6 — Underground.
+**Personal connection:** The name is Jade Brooks, a dockworker Shai knows and cares about. Jay has quietly helped local workers stay safe from gang pressure and has been taken along with several other workers after refusing to cooperate with Ali's operation. Jay is established as a recurring supporting ally, with her next major appearance planned for Stage 6 — Underground.
 
 #### Opening scene
 Shai studies the ledger and stops at a familiar name.
@@ -262,14 +262,14 @@ Kanan gestures toward the exit. Shai gives him a determined look and follows.
 
 #### Continuity and open decisions
 - This mission expands the already-established Shai secret-mission title **“Safe Signal”**; it does not replace it.
-- Jay Brooks is the rescued person and is planned to return as a recurring supporting ally, with her next major appearance in Stage 6 — Underground. The finer details of her history with Shai and her later appearances remain open.
+- Jade Brooks is the rescued person and is planned to return as a recurring supporting ally, with her next major appearance in Stage 6 — Underground. The finer details of her history with Shai and her later appearances remain open.
 - The exact mission map, enemy roster, timer values, rewards, and OpenBOR implementation are not yet designed.
 - Keep the rescued person's identity consistent if they return in later stages.
 
 
-## Stage 6 — Underground: Jay Brooks returns (story outline draft, 2026-11-09)
+## Stage 6 — Underground: Jade Brooks returns (story outline draft, 2026-11-09)
 
-**Status:** This is the proposed Stage 6 return for Jay Brooks, following the user's approval to make her a recurring supporting ally after Shai's optional Stage 1 secret mission, “Safe Signal.” The broad role and story connection are approved; exact dialogue, level layout, encounter order, and gameplay implementation remain drafts.
+**Status:** This is the proposed Stage 6 return for Jade Brooks, following the user's approval to make her a recurring supporting ally after Shai's optional Stage 1 secret mission, “Safe Signal.” The broad role and story connection are approved; exact dialogue, level layout, encounter order, and gameplay implementation remain drafts.
 
 ### Why Jay returns
 
@@ -358,7 +358,7 @@ Shai smiles despite herself. The team moves on with the manifest.
 
 The Underground chapter must preserve the established **Stage 8 — The Shipyard** encounter between Shai and Mei Lin. Do not move their first on-screen confrontation into Stage 6 or reveal Mei's identity to Jenni here.
 
-- Stage 6 focuses on Jay Brooks, the U-6 network, the underground transfer records, and the workers being moved through the hidden routes.
+- Stage 6 focuses on Jade Brooks, the U-6 network, the underground transfer records, and the workers being moved through the hidden routes.
 - Mei does not appear in the Stage 6 Underground sequence in this outline.
 - In main Story Stage 8, the Mei encounter can occur only when the player is using **Shai Hooks or Nona “Beauty” Silks**. Jenni is absent and does not learn Mei's identity.
 - If Shai is the selected character, she personally confronts Mei. The fight ends in a draw, and Mei escapes when the others arrive.
