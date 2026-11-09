@@ -136,3 +136,29 @@ Only preserve lines that are actually present in recovered history. Do not inven
 1. Decide whether team attacks are triggered by an AI partner in single-player, local two-player, online multiplayer, or a combination. Do not assume multiplayer.
 2. Build and review the Kanan + Jaylen and Kanan + Shai attack concepts first, since those pairings were previously prioritized.
 3. Create a full dialogue index by stage and character, then fill exact lines from recovered history before writing new dialogue.
+
+
+## Romeo & Mei — trust-break scene (user-approved story beat, 2026-11-08)
+
+**Required emotional beat:** Mei must clearly tell Romeo that she feels used and that she no longer trusts him. This is not a mild misunderstanding or playful annoyance. Romeo's initial deception—approaching her partly to get information about Coldman—has damaged her trust. He must earn it back through actions over time; one apology or flirtatious remark does not instantly repair the relationship.
+
+**Draft dialogue for review (the emotional direction is approved; exact wording remains a draft):**
+
+**Mei:** “So that's what this was? You used me to get to Coldman.”
+
+**Romeo:** “It started that way. I won't pretend it didn't.”
+
+**Mei:** “You made me think you actually cared. I trusted you, Romeo. Now I feel like I was just another way for you to get what you wanted.”
+
+**Romeo:** “Mei, I—”
+
+**Mei:** “Don't. I don't trust you anymore. If you want me to believe a word you say, you'll have to prove it. And don't expect me to make that easy.”
+
+**Romeo:** “I understand. I won't ask you to trust me. I'll give you a reason to, if you'll let me.”
+
+**Performance and continuity notes:**
+- Mei should sound hurt and angry, not coy; leave a clear emotional pause after “I don't trust you anymore.”
+- Romeo should not joke, flirt, or pressure her to forgive him in this scene.
+- This establishes the slow-trust arc already recorded for their bonus storyline; Romeo earns trust through consistent choices and changed behavior.
+- Place this beat in the later bonus-story stretch when Mei learns the truth about Romeo's original motive. Exact stage placement and final wording remain to be confirmed.
+- Status: user-approved emotional requirement; dialogue text is a proposed draft, not yet line-by-line approved.
