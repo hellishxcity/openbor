@@ -210,3 +210,58 @@ A dockworker approaches Shai because the gang has confiscated a small encrypted 
 - Completing either secret mission is optional and should not be required to understand the main campaign.
 - Keep the meaning of “U-6” partly unresolved until Stage 6 — Underground.
 - Do not imply that the ledger alone proves who Ali's suppliers are; it is a lead for further investigation.
+
+
+### Shai's Stage 1 secret mission — “Safe Signal” (expanded draft, 2026-11-09)
+
+**Status:** User approved connecting the ledger's forced-worker evidence to a personal rescue mission for Shai. This mission sketch is a draft; the identity/name of the person Shai cares about and the exact dialogue remain to be confirmed.
+
+**Trigger:** Available after the Stage 1 Dockside ledger discovery if Shai is selected as the main fighter or partner. The ledger contains a name Shai recognizes beside repeated protection-payment entries and a coded reference to the old loading station.
+
+**Personal connection:** The name belongs to a dockworker Shai knows and cares about—someone who has quietly helped local workers stay safe from gang pressure. The person has been taken along with several other workers after refusing to cooperate with Ali's operation. Keep the person's name and precise relationship to Shai open until the user chooses them.
+
+#### Opening scene
+Shai studies the ledger and stops at a familiar name.
+
+**Shai:** “I know that name. They wouldn't be on this list unless something happened.”
+
+Kanan looks from her to the ledger.
+
+**Shai:** “They're holding people somewhere near the old loading station. If we wait, those workers could disappear.”
+
+Kanan closes the ledger and nods.
+
+**Shai:** “I knew you'd understand. Let's get them out.”
+
+Kanan gestures toward the exit. Shai gives him a determined look and follows.
+
+#### Mission objectives
+1. Reach the old loading station using the route marked by the ledger.
+2. Disable the gang's signal jammer / alarm relay so the captives can call for help.
+3. Defeat the guards and locate the holding area.
+4. Free the dockworkers, including Shai's acquaintance.
+5. Escort the workers through the service lane to a safe exit.
+
+#### Gameplay beats
+- **Approach:** A short container-yard combat encounter introduces guards watching the loading station.
+- **Signal puzzle:** Shai uses her technical skills to identify and disable the jammer. Keep the interaction simple and readable for mobile controls; it should be a brief action under pressure, not a long puzzle.
+- **Rescue:** The player fights through the holding area. One guard attempts to trigger the alarm, creating a short timed interruption.
+- **Escape:** The rescued workers move toward the exit while the player protects the route from a final wave of enemies.
+- **Completion:** Shai's acquaintance thanks her. Shai tries to keep her composure, but the relief is obvious. Kanan stays close and gives her a quiet, reassuring touch.
+
+#### Story payoff
+- The rescued workers confirm that Ali's gang is forcing people to work, collecting protection payments, and moving shipments through routes that do not appear on official dock records.
+- The disabled relay yields a partial signal log containing the same **U-6** notation found in the ledger. This reinforces the main mystery without revealing the full Underground operation before Stage 6.
+- The rescue gives Shai a personal reason to keep investigating Ali's network.
+- Completing the mission is optional. The main campaign still advances if the player skips it; the ledger remains the core clue.
+
+#### Partner variations
+- **Kanan present:** He notices Shai's reaction before she explains. Their established romantic bond is conveyed through a quiet nod, staying beside her, and a reassuring gesture. Do not make him suddenly talkative.
+- **Another partner present:** Shai still reacts personally to the ledger clue if she is selected as the lead. The accompanying character supports her in their own established voice; do not play Kanan/Shai romantic beats unless Kanan is actually present.
+- **Shai absent:** The main ledger discovery still happens, but this Shai-specific optional mission does not trigger.
+
+#### Continuity and open decisions
+- This mission expands the already-established Shai secret-mission title **“Safe Signal”**; it does not replace it.
+- The rescued person's name, exact relationship to Shai, fate after the rescue, and later appearances are undecided.
+- The exact mission map, enemy roster, timer values, rewards, and OpenBOR implementation are not yet designed.
+- Keep the rescued person's identity consistent if they return in later stages.
