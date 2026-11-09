@@ -16,7 +16,11 @@ An original OpenBOR side-scrolling beat-'em-up project. This project is separate
 - Shai Hooks — kickboxer; fast technical strings.
 - Jenni "Legs" Rows — taekwondo specialist; undercover police officer.
 - Nona "Beauty" Silks — MMA/grappler; takedowns and throws.
-- Secret unlockables planned: Romeo Wells and Mei Lin.
+
+## Secret playable unlockables
+- **Romeo Wells** and **Mei Lin** are secret playable characters.
+- Both unlock only after the player beats/completes the main game (Story Mode).
+- Neither is part of the starting roster; their unlock is not tied to completing the bonus storyline.
 
 ## Original enemy direction
 - Dockside Grunts — basic gang fighters.
