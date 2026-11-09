@@ -366,3 +366,73 @@ The Underground chapter must preserve the established **Stage 8 — The Shipyard
 - Jenni learns Mei's identity only in **Bonus Stage 21**, as already established.
 
 This separation lets Stage 6 deepen the U-6 mystery without crowding or spoiling Shai's later Shipyard encounter with Mei.
+
+
+### Stage 6 playable build — Underground route, encounters, and set pieces (draft, 2026-11-09)
+
+**Purpose:** Turn the Jay/U-6 story outline into a practical beat-'em-up stage plan. This is a draft for review, not a locked boss assignment or final OpenBOR implementation. Stage 6 remains separate from Mei Lin's Stage 8 encounter.
+
+#### Stage flow
+
+**Area 1 — Abandoned Transit Depot**
+- The fighters enter through the depot entrance Jay identifies.
+- First encounter: a small patrol of Underground Runners and Dockside Grunts. Use this opening wave to reintroduce familiar enemies in a new environment.
+- The player clears the depot floor while Jay uses the depot's old maintenance markings to point out the concealed freight lift.
+- Optional side alcove: a locked supply cage. If the player finds its switch, it opens a short detour with health or score pickups; it does not contain a required story clue.
+
+**Area 2 — Freight Lift and Security Landing**
+- A short transition places the team on a lower service level.
+- Encounter: Iron Guards protect a control panel while lighter enemies approach from both sides.
+- Gameplay objective: defeat the guards, then activate the panel to release the lift lock.
+- Environmental storytelling: recent wheel tracks, chained service doors, discarded worker tags, and freight labels stamped U-6.
+- Jay guides the team over the communications line; she does not fight or become a partner character.
+
+**Area 3 — The Split Tunnels**
+- The route divides around a damaged maintenance junction. The player chooses one of two short lanes:
+  - **Pump Corridor:** tighter space, more bruisers, a pressure-valve hazard that briefly changes the safe fighting area.
+  - **Rail Siding:** longer open lane, faster enemies, moving freight carts that create timed lane hazards.
+- Both routes reconnect at the underground loading platform. The choice changes encounter texture and pickups, not the main story outcome.
+- Jay explains which markings identify the active route and warns the team not to follow an obsolete tunnel.
+
+**Area 4 — Underground Loading Platform**
+- A larger combat arena with freight containers, raised walkways, and two access gates.
+- Wave one: mixed gang guards hold the platform.
+- Wave two: reinforcements enter from the access gates after the player activates the manifest terminal.
+- Objective: protect the terminal long enough for the selected fighter to secure the transfer records. If Shai is not selected, another fighter holds the area while Jay talks the team through the terminal's simple physical controls; do not make the whole stage depend on Shai being present.
+- The recovered records show multiple U-6 stops and a transfer scheduled to leave immediately.
+
+**Area 5 — Transfer Yard**
+- The team reaches a convoy staging area where workers are being moved between freight cars.
+- The player defeats the guards and interrupts the transfer before the cars can depart.
+- A heavy enforcer arrives as the stage's major boss encounter. For now, use the working label **U-6 Overseer**; do not assign this boss to Warden Stone or another named boss until the user approves the roster placement.
+- Boss fight draft: a slow, powerful grappler with heavy swings and a charge attack. Telegraph attacks clearly; allow the player to evade, punish recovery windows, and use the environment without requiring a specific playable character.
+- After defeat, the Overseer drops a master service key. The key opens the emergency exit route.
+
+**Area 6 — Emergency Service Gate and Escape**
+- Gang control systems begin sealing the tunnels.
+- The team fights a final short pursuit wave while Jay reaches the manual release station once the immediate area is clear.
+- Jay opens the gate; the rescued workers move through first, followed by the fighters.
+- The stage ends on the surface-side service road, with Jay coordinating the workers' safe relocation.
+
+#### Stage 6 rewards and evidence
+
+- **Main-story evidence:** the recovered U-6 transfer manifest, which maps several underground stops to surface locations.
+- **Optional exploration reward:** supplies or score from the Pump Corridor / Rail Siding detour.
+- **Story flag:** U6_MANIFEST_RECOVERED.
+- **Jay continuity flag:** if the player completed Stage 1's optional “Safe Signal,” set/retain JAY_RESCUED_AT_DOCKS; if not, Jay's Stage 6 introduction still occurs through the dockworker network. The Stage 6 main plot must not branch into a missing mission or imply that the player rescued her earlier.
+- No Mei encounter, Mei reveal, or Jenni identity discovery occurs in this stage.
+
+#### Partner and character continuity
+
+- The selected main fighter and AI partner remain the player's chosen duo under the established team-selection system.
+- Jay is an NPC support contact and does not replace the selected AI partner.
+- If Shai is present, include a brief personal reunion with Jay; if Shai is absent, keep the exchange focused on the team's shared U-6 investigation.
+- If Kanan is present, preserve his quiet, observant manner and his established relationship with Shai. Do not give him long explanatory dialogue.
+- The Stage 8 Mei encounter remains exclusive to a Shai-led or Nona-led route. Kanan, Jaylen, and Jenni do not trigger that encounter as the selected lead. Jenni still learns Mei's identity only in Bonus Stage 21.
+
+#### Open production decisions
+
+- Confirm the final boss identity and whether the working U-6 Overseer should be a new character or a renamed existing boss.
+- Finalize enemy variants, exact wave counts, stage length, branch rewards, and difficulty scaling.
+- Decide whether the manifest terminal is a short hold-the-area encounter or a brief interact-and-defend sequence.
+- Create the final OpenBOR entity, animation, spawn, and level-section definitions after the stage design is approved.
