@@ -308,3 +308,47 @@ Kanan pauses, meets her eyes, and gives her hand one reassuring squeeze before m
 - If the player selects Shai with another partner, do not play Kanan/Shai romantic scenes.
 - If Kanan and Shai are both present, their relationship may inform optional banter and support animations, while the main plot remains coherent for other team combinations.
 - The campaign should not assume the player always chooses them together; preserve their relationship in story continuity even when the player selects a different partner.
+
+
+## Kanan + Shai — relationship canon and first co-op move (2026-11-09)
+
+**User-confirmed canon:** Kanan and Shai Hooks are a couple / lovers. Their interactions should feel flirtatious, tense, and concerned for one another. Kanan remains quiet and communicates mainly through gestures and expressions; Shai knows him well enough to read him, tease him, challenge him, and notice when he is hurt or worried.
+
+### Relationship direction
+- Their bond is established and mutual, shown through trust, shorthand communication, teasing, concern, and small affectionate gestures.
+- They should not be romantic in every exchange; both remain capable fighters with their own priorities.
+- In combat they move almost instinctively, covering each other's blind spots and reacting to danger without needing long explanations.
+- When the player chooses another partner, Kanan and Shai remain a couple in story continuity, but their duo-specific banter and team attack only play when both are present.
+
+### Co-op Move 1 — Lover's Quarrel
+- Pair: Kanan + Shai.
+- **Name:** user-approved on 2026-11-09.
+- **Role:** a multi-hit coordinated combo, built around a rapid exchange of strikes and seamless partner timing.
+- **Draft choreography:** Shai opens with a sharp sequence of quick strikes that draws the enemy's guard; Kanan steps into the opening with a compact follow-up combination; Shai pivots around the opponent and lands another quick hit; Kanan closes the sequence with a decisive finishing strike. The pair separate smoothly and return to ready stances.
+- **Tone:** playful edge and romantic tension in the choreography, but the move remains a serious combat technique. Avoid making it look like they are actually fighting each other.
+- **Dialogue/performance idea (not approved):** Shai gives Kanan a teasing look before the activation; Kanan answers with a faint smirk. Keep any spoken line optional and brief.
+- **Status:** move name and its identity as their first co-op move are user-approved. Exact hit sequence, dialogue, damage, animation frames, activation, and effects remain draft pending review.
+
+### Dockside opening — Kanan + Shai variant
+This is a partner-specific variation of the Stage 1 opening. Shai notices a scrape on Kanan's arm before they approach the warehouse.
+
+**Shai:** “You know, most people say hello before they run off bleeding.”
+
+Kanan glances at the scrape, then gives her a look.
+
+**Shai:** “Don't give me that look. I know you.”
+
+Kanan gestures toward the warehouse: work first.
+
+**Shai:** “Work first. Lecture later?”
+
+Kanan nods.
+
+**Shai:** “Good. And try not to make me worry this time.”
+
+Kanan briefly squeezes her hand before they move in.
+
+**Status:** Relationship and emotional direction are user-confirmed; exact dialogue remains a draft.
+
+### Name correction
+The character's correct name is **Shai** (Shai Hooks), not “Shy.” Speech-to-text variants in transcripts should not alter the canonical spelling.
