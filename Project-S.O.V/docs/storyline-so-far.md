@@ -352,3 +352,17 @@ Shai smiles despite herself. The team moves on with the manifest.
 - Jay's contribution is intelligence, access, and worker coordination. She does not replace the fighters in combat.
 - Stage 6 confirms the existence and function of the U-6 network but should not reveal the entire conspiracy or prematurely resolve the later campaign.
 - Jay can appear again later when her worker network or evidence is relevant, but avoid forcing her into every stage.
+
+
+### Stage 6 continuity note — Mei Lin's later encounter
+
+The Underground chapter must preserve the established **Stage 8 — The Shipyard** encounter between Shai and Mei Lin. Do not move their first on-screen confrontation into Stage 6 or reveal Mei's identity to Jenni here.
+
+- Stage 6 focuses on Jay Brooks, the U-6 network, the underground transfer records, and the workers being moved through the hidden routes.
+- Mei does not appear in the Stage 6 Underground sequence in this outline.
+- In main Story Stage 8, the Mei encounter can occur only when the player is using **Shai Hooks or Nona “Beauty” Silks**. Jenni is absent and does not learn Mei's identity.
+- If Shai is the selected character, she personally confronts Mei. The fight ends in a draw, and Mei escapes when the others arrive.
+- If Nona is selected, Nona has the encounter instead; do not substitute Shai into that route.
+- Jenni learns Mei's identity only in **Bonus Stage 21**, as already established.
+
+This separation lets Stage 6 deepen the U-6 mystery without crowding or spoiling Shai's later Shipyard encounter with Mei.
