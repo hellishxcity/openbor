@@ -265,3 +265,90 @@ Kanan gestures toward the exit. Shai gives him a determined look and follows.
 - The rescued person's name, exact relationship to Shai, fate after the rescue, and later appearances are undecided.
 - The exact mission map, enemy roster, timer values, rewards, and OpenBOR implementation are not yet designed.
 - Keep the rescued person's identity consistent if they return in later stages.
+
+
+## Stage 6 — Underground: Jay Brooks returns (story outline draft, 2026-11-09)
+
+**Status:** This is the proposed Stage 6 return for Jay Brooks, following the user's approval to make her a recurring supporting ally after Shai's optional Stage 1 secret mission, “Safe Signal.” The broad role and story connection are approved; exact dialogue, level layout, encounter order, and gameplay implementation remain drafts.
+
+### Why Jay returns
+
+Since the Dockside rescue, Jay has quietly kept in touch with Shai and continued gathering information from dockworkers and other residents. She has compared the U-6 notation from the shipment records with old freight schedules and maintenance maps. She discovers that U-6 refers to a network of sealed service passages beneath the city—not one single tunnel, but a route connecting several old utility and freight access points.
+
+Jay does not become a fighter or a permanent member of the playable roster. Her value is her local knowledge, her courage, and the trust she has built among workers who are afraid to speak openly about Ali's operation.
+
+### Stage opening — the signal from below
+
+As the team investigates the U-6 lead, Shai receives a brief message from Jay. Jay has found a maintenance access point beneath an abandoned transit depot. The message cuts off after she warns that gang guards have begun moving people and equipment through the passage.
+
+If Shai completed “Safe Signal,” the exchange carries their established friendship and relief at hearing from one another again. If the player skipped that optional mission, Jay's appearance must still make sense: she can be introduced through the dockworker network and the evidence connected to the Stage 1 ledger, without assuming the player personally rescued her.
+
+**Draft exchange (if Shai is present):**
+
+**Shai:** “Jay? I thought you were staying clear of the docks.”
+
+**Jay:** “I was. Then I found where those shipments go. U-6 isn't a warehouse code. It's a whole route under the city.”
+
+**Shai:** “You should've waited for us.”
+
+**Jay:** “And let them move everyone before you got here? You know me better than that.”
+
+Shai is concerned, but recognizes that Jay has brought them the lead they need. Kanan gives Jay a respectful nod.
+
+### Stage route and objectives
+
+1. **Find the access point:** Fight through the abandoned transit depot and locate the maintenance entrance marked on Jay's map.
+2. **Break the surface security:** Defeat the gang guards protecting the access lift and disable the lockout control.
+3. **Enter the U-6 network:** Explore connected freight tunnels, utility corridors, and underground loading platforms. Environmental clues show that the route has been used to move shipments and hold unwilling workers out of public view.
+4. **Recover the transfer records:** Reach a guarded control room and retrieve the missing section of the U-6 manifest. The records connect multiple surface locations to the underground network, but do not yet reveal every person or organization behind Ali.
+5. **Stop the transfer:** Intercept a shipment convoy or forced-worker transfer before it can leave the area. The player fights the guards and a heavy enforcer assigned to protect the operation.
+6. **Get the workers out:** Open a secondary service exit and protect the rescued workers while they reach a safe route back to the surface.
+
+### Jay's role during the mission
+
+Jay stays near a secured communications point rather than joining the combat as a playable or AI fighter. She:
+- guides the team through the passages using her maintenance-map knowledge;
+- identifies old freight markings and explains which routes are still active;
+- helps open or redirect a service gate after the team secures its control panel;
+- contacts trusted workers to coordinate a safe evacuation once the route is clear.
+
+Keep her exposed to danger and emotionally involved, but do not turn her into an implausibly capable action hero. The fighters handle the combat; Jay makes the rescue and investigation possible.
+
+### Mid-mission complication
+
+The gang begins sealing the tunnels after realizing the team has reached the control room. Jay discovers that one of the gates can only be held open manually from a nearby service station. She volunteers to reach it, but Shai insists that Jay wait until the immediate area is secure. This creates urgency without making Jay reckless or requiring her to fight.
+
+The team clears the station. Jay operates the manual release, allowing the workers and the fighters to escape before the passage is sealed. If Shai is present, she and Jay share a brief moment of relief once everyone is through.
+
+### Stage payoff
+
+The recovered manifest confirms that U-6 is a hidden underground freight-and-transfer network used by Ali's organization. It gives the team concrete locations to investigate in later stages and proves that the Dockside ledger was an early trace of a much larger operation.
+
+Jay's information also helps the fighters identify additional workers who need protection. She returns to the surface network to coordinate their safe relocation and promises to pass along any new evidence.
+
+**Closing beat (draft):**
+
+**Jay:** “You found the route. I can help get the people out, but there are more names on those records.”
+
+**Shai:** “Then we'll keep going until we get them all.”
+
+Jay looks to Kanan.
+
+**Jay:** “Take care of her.”
+
+Kanan gives a firm nod.
+
+**Shai:** “I can take care of myself.”
+
+**Jay:** “I know. That's why I said it to him.”
+
+Shai smiles despite herself. The team moves on with the manifest.
+
+### Continuity rules
+
+- Jay is a recurring supporting ally, not a playable fighter and not a new roster member.
+- Her Stage 6 return is the next major appearance after “Safe Signal.”
+- If “Safe Signal” was completed, the reunion can acknowledge Shai's direct rescue of Jay. If it was skipped, Jay must still be introduced through the dockworker network and the Stage 1 U-6 evidence; do not imply a rescue scene the player did not experience.
+- Jay's contribution is intelligence, access, and worker coordination. She does not replace the fighters in combat.
+- Stage 6 confirms the existence and function of the U-6 network but should not reveal the entire conspiracy or prematurely resolve the later campaign.
+- Jay can appear again later when her worker network or evidence is relevant, but avoid forcing her into every stage.
