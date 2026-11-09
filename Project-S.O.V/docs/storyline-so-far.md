@@ -214,11 +214,11 @@ A dockworker approaches Shai because the gang has confiscated a small encrypted 
 
 ### Shai's Stage 1 secret mission — “Safe Signal” (expanded draft, 2026-11-09)
 
-**Status:** User approved connecting the ledger's forced-worker evidence to a personal rescue mission for Shai. This mission sketch is a draft; the identity/name of the person Shai cares about and the exact dialogue remain to be confirmed.
+**Status:** User approved connecting the ledger's forced-worker evidence to a personal rescue mission for Shai. This mission sketch is a draft; Jay Brooks is the rescued person, while exact dialogue and the full nature of her history with Shai remain open for refinement.
 
 **Trigger:** Available after the Stage 1 Dockside ledger discovery if Shai is selected as the main fighter or partner. The ledger contains a name Shai recognizes beside repeated protection-payment entries and a coded reference to the old loading station.
 
-**Personal connection:** The name belongs to a dockworker Shai knows and cares about—someone who has quietly helped local workers stay safe from gang pressure. The person has been taken along with several other workers after refusing to cooperate with Ali's operation. Keep the person's name and precise relationship to Shai open until the user chooses them.
+**Personal connection:** The name is Jay Brooks, a dockworker Shai knows and cares about. Jay has quietly helped local workers stay safe from gang pressure and has been taken along with several other workers after refusing to cooperate with Ali's operation. Jay is established as a recurring supporting ally, with her next major appearance planned for Stage 6 — Underground.
 
 #### Opening scene
 Shai studies the ledger and stops at a familiar name.
@@ -262,7 +262,7 @@ Kanan gestures toward the exit. Shai gives him a determined look and follows.
 
 #### Continuity and open decisions
 - This mission expands the already-established Shai secret-mission title **“Safe Signal”**; it does not replace it.
-- The rescued person's name, exact relationship to Shai, fate after the rescue, and later appearances are undecided.
+- Jay Brooks is the rescued person and is planned to return as a recurring supporting ally, with her next major appearance in Stage 6 — Underground. The finer details of her history with Shai and her later appearances remain open.
 - The exact mission map, enemy roster, timer values, rewards, and OpenBOR implementation are not yet designed.
 - Keep the rescued person's identity consistent if they return in later stages.
 
