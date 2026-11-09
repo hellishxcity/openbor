@@ -162,3 +162,35 @@ Only preserve lines that are actually present in recovered history. Do not inven
 - This establishes the slow-trust arc already recorded for their bonus storyline; Romeo earns trust through consistent choices and changed behavior.
 - Place this beat in the later bonus-story stretch when Mei learns the truth about Romeo's original motive. Exact stage placement and final wording remain to be confirmed.
 - Status: user-approved emotional requirement; dialogue text is a proposed draft, not yet line-by-line approved.
+
+## Kanan + Jaylen — signature co-op concepts (2026-11-09)
+
+**Character dynamic:** Kanan is the quiet, observant, silent-type fighter and steady leader. He communicates mostly through head nods, hand signals, and body language, speaking only occasionally. Jaylen is more expressive and energetic; his loyalty and familiarity with Kanan let him understand Kanan's signals without lengthy explanations.
+
+**Stage partner selection:** Before a stage, the player chooses the lead character and chooses one partner from the available roster. The selected partner is controlled by AI. Each character should retain a distinct personality in their reactions, callouts, support behavior, and team attacks. This is a design direction; detailed AI behavior and implementation remain to be specified.
+
+### Attack 1 — Silent Execution
+- Pair: Kanan + Jaylen.
+- Status: proposed concept; awaiting user line-by-line approval.
+- Role: fast, tactical coordinated takedown, especially suited to regular enemies.
+- Sequence: Kanan gives Jaylen a quick hand signal; Kanan rushes in with a stomach strike; the enemy staggers; Jaylen grabs and lifts the opponent; Kanan follows with a clean aerial kick; Jaylen completes the throwdown; both return to their fighting stances.
+- Dialogue draft:
+  - Jaylen: “You ready?”
+  - Kanan: silent nod.
+  - Jaylen: “That's all I needed.”
+- Production: distinct character animation tracks, impact effects, sound cues, and synchronized timing required.
+
+### Attack 2 — Brothers' Judgment
+- Pair: Kanan + Jaylen.
+- Status: proposed concept; awaiting user line-by-line approval.
+- Role: slower, heavier attack intended as a boss-punishing team finisher, subject to boss-specific grab/launch rules and balance testing.
+- Sequence: Kanan signals Jaylen to flank; Kanan attacks from the front with a punch combination; Jaylen rushes from behind and secures a waist grab; Kanan delivers a spinning kick to the opponent's upper body; Jaylen launches the enemy upward; Kanan catches the airborne opponent with a powerful follow-up strike; Jaylen finishes with a ground slam; both stand together as the enemy hits the ground.
+- Dialogue draft:
+  - Jaylen: “You always this quiet?”
+  - Kanan: “Focus.”
+  - Jaylen: “That's my brother!”
+- Production: slower timing and stronger impact presentation than Silent Execution; distinct animation tracks, effects, and audio cues.
+
+**Design distinction:** Silent Execution is the quicker tactical attack; Brothers' Judgment is the heavier boss-punish concept. Both are team attacks, not evidence that local or online multiplayer is implemented. The AI-partner activation method, input, resource cost, cooldown, damage values, and exact frame counts remain undecided.
+
+**Approval record:** User approved the overall personality balance and concept direction (“Yes”) on 2026-11-09. Individual move names, exact choreography, and dialogue wording remain marked as proposed pending explicit approval.
