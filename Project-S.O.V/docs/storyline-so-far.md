@@ -436,3 +436,38 @@ This separation lets Stage 6 deepen the U-6 mystery without crowding or spoiling
 - Finalize enemy variants, exact wave counts, stage length, branch rewards, and difficulty scaling.
 - Decide whether the manifest terminal is a short hold-the-area encounter or a brief interact-and-defend sequence.
 - Create the final OpenBOR entity, animation, spawn, and level-section definitions after the stage design is approved.
+
+
+### Stage 6 — Mei Lin's U-6 dossier encounter (draft, 2026-11-09)
+
+**Trigger:** This beat occurs only when the selected lead fighter is **Shai Hooks or Nona “Beauty” Silks**. It does not trigger when Kanan, Jaylen, or Jenni is the lead. The encounter is strictly one-on-one: the selected lead fights Mei alone; the AI partner and other allies do not join, attack, interrupt, or provide assist moves during the duel.
+
+**Setup:** While the team investigates the underground loading platform, Mei is independently searching the same U-6 facility. She has located a sealed transfer dossier containing information she needs. The player-controlled lead catches her retrieving it from the records terminal. Mei does not explain her full motive; she is focused on getting the dossier out before the gang discovers her presence.
+
+**Opening exchange — Shai route (draft):**
+
+**Shai:** “Step away from the terminal. What's in that file?”
+
+**Mei:** “Something you don't need to know.”
+
+**Shai:** “Then you won't mind leaving it here.”
+
+**Mei:** “I'm afraid I can't do that.”
+
+**Opening exchange — Nona route (draft):**
+
+**Nona:** “Put the document down. Nobody needs to get hurt.”
+
+**Mei:** “You don't understand what you're standing in the way of.”
+
+**Nona:** “Maybe. But I'm not letting you walk out with it.”
+
+**Mei:** “Then you'll have to stop me.”
+
+**Duel design:** A compact one-on-one encounter, shorter than a full boss fight. Mei uses quick footwork, evasive steps, sharp counterattacks, and short martial-arts combinations. The player must read her movement and punish recovery windows rather than trade heavy attacks. Keep the arena clear and readable, with no adds, partner assists, or environmental hazards that undermine the one-on-one premise. The fight should showcase Mei's skill without revealing her entire moveset or making her feel like a conventional villain.
+
+**Outcome:** The duel ends unresolved when an alarm or security lockdown forces a split-second change in the situation. Mei uses the opening to escape with the sealed U-6 transfer dossier. The selected lead is left with evidence that Mei is pursuing her own objective inside Ali's operation. Do not have the player defeat, capture, or unmask her here.
+
+**Continuity with Stage 8:** This Stage 6 clash is an early, brief encounter and does not replace the later Stage 8 — The Shipyard confrontation. The Stage 8 main-story Mei encounter remains restricted to a Shai-led or Nona-led route. Keep the established Stage 8 outcome and Jenni's identity reveal in Bonus Stage 21 unchanged. Do not add a Stage 6 Mei appearance to Kanan-, Jaylen-, or Jenni-led playthroughs.
+
+**Production notes:** Use a dedicated duel sequence with the selected lead temporarily isolated from partner AI. Restore normal partner following after Mei escapes. The dossier should be a distinct story prop/evidence item; its exact contents and why Mei needs it remain intentionally unrevealed until the later story is developed.
