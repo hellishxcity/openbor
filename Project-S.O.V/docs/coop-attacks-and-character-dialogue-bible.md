@@ -194,3 +194,69 @@ Only preserve lines that are actually present in recovered history. Do not inven
 **Design distinction:** Silent Execution is the quicker tactical attack; Brothers' Judgment is the heavier boss-punish concept. Both are team attacks, not evidence that local or online multiplayer is implemented. The AI-partner activation method, input, resource cost, cooldown, damage values, and exact frame counts remain undecided.
 
 **Approval record:** User approved the overall personality balance and concept direction (“Yes”) on 2026-11-09. Individual move names, exact choreography, and dialogue wording remain marked as proposed pending explicit approval.
+
+## Dynamic campaign partner selection — menu and first interaction draft (2026-11-09)
+
+**Status:** User approved proceeding with a sketch of the selection menu and first partner banter scene. The following is a design draft for review; exact UI, dialogue, and implementation are not yet final.
+
+### Pre-campaign team selection screen
+
+**Screen title:** CHOOSE YOUR FIGHTERS
+
+**Layout / information**
+- Main Fighter: the character directly controlled by the player.
+- Partner: one AI-controlled teammate who follows, supports, reacts, and can participate in paired attacks.
+- Character portrait/model, name, short personality description, and fighting-style summary for each selection.
+- A two-person team preview showing the selected lead and partner together.
+- A short sample interaction button/preview so players can hear or read the duo's dynamic before confirming.
+
+**Controls**
+- Select Main Fighter.
+- Select Partner.
+- Confirm Team.
+- Character Details.
+- Random Team (optional; only if useful for the final UI).
+
+**Example initial selection**
+- Main Fighter: Kanan — quiet, observant, communicates mostly through gestures and occasional short lines.
+- AI Partner: Jaylen “Coldman” Jaxon — expressive, energetic, loyal, and familiar with Kanan's signals.
+- Team confirmation line: Jaylen: “You know, you could just say where we're going.” Kanan gives him a look and points toward the docks. Jaylen: “Right. Docks. Got it.”
+
+**Roster availability**
+- Five starting fighters: Kanan, Jaylen, Shai, Jenni, Nona.
+- Romeo Wells and Mei Lin remain locked until the player completes the main Story Mode; only then can they be selected in post-game/replay play, subject to the final unlock design.
+
+### Between-stage team management
+
+After each stage, show a **NEXT MOVE** / **TEAM SETUP** screen:
+- Continue with the same team.
+- Change Main Fighter.
+- Change Partner.
+- Change Both.
+- Review the next stage briefing.
+
+Changing the team does not reset campaign progress. Preserve completed stages, collected clues, mission outcomes, story flags, and each character's knowledge. The next stage's optional banter and partner reactions use the newly selected duo and current story state.
+
+### First partner banter scene — Dockside District
+
+**Placement:** Short pre-stage scene after the player confirms Kanan + Jaylen, before the first Dockside encounter.
+
+**Visual staging:** Night at the docks. Rain taps against shipping containers. Kanan studies a warehouse entrance from behind stacked crates. Jaylen steps beside him, rolling his shoulders and looking toward the guards.
+
+**Draft dialogue / action:**
+- **Jaylen:** “Three at the door. Two more up on the walkway. You want me to make some noise?”
+- Kanan raises two fingers, then points toward the walkway.
+- **Jaylen:** “You take the high ground. I keep the front busy. Same as always.”
+- Kanan gives a short nod.
+- **Jaylen:** “Man, one day I'm getting you to use a whole sentence.”
+- Kanan starts moving.
+- **Jaylen:** “Yeah, yeah. I'm coming.”
+
+**Gameplay handoff:** The player gains control as Kanan and Jaylen split toward their approach positions. The opening encounter teaches basic combat and partner support. When the player triggers the first paired attack opportunity, Kanan signals and Jaylen responds, introducing **Silent Execution** as the duo's signature coordinated takedown concept. The exact trigger/input and tutorial timing remain to be designed.
+
+### Dialogue and continuity rules
+- This exchange is specific to the Kanan + Jaylen pairing; other selected partners receive their own scene or a shorter variation.
+- Kanan's silence is intentional characterization, not missing dialogue. Use readable gestures, eye-lines, and reactions.
+- Do not play Kanan + Jaylen-only lines if a different partner is selected.
+- Do not let optional banter reveal information a character has not learned yet.
+- Keep scenes short enough to preserve the pace of a mobile beat-'em-up campaign.
