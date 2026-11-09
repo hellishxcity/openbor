@@ -260,3 +260,51 @@ Changing the team does not reset campaign progress. Preserve completed stages, c
 - Do not play Kanan + Jaylen-only lines if a different partner is selected.
 - Do not let optional banter reveal information a character has not learned yet.
 - Keep scenes short enough to preserve the pace of a mobile beat-'em-up campaign.
+
+
+## Kanan + Shai — romantic relationship and interaction direction (2026-11-09)
+
+**User-confirmed canon:** Kanan and Shai are a couple / lovers. Their campaign interactions should be flirtatious, tense, and concerned for one another.
+
+### Relationship performance
+- Kanan remains quiet and communicates primarily through gestures, expressions, eye contact, and occasional short lines. His affection should be visible through attentive actions and subtle physical reassurance, not a sudden change into a talkative character.
+- Shai knows Kanan well and can interpret his nonverbal signals. She can tease him, challenge his decisions, and recognize when he is hiding pain or worry.
+- Their exchanges should balance flirtation, genuine concern, occasional friction, and affectionate familiarity.
+- Their relationship should feel established and mutual, not like a first-date romance. Let intimacy show through trust, shorthand communication, and concern under pressure.
+- Avoid making every exchange romantic. They are also capable fighters with their own priorities and personalities.
+
+### Interaction beats to use across the campaign
+1. **Pre-stage:** a brief teasing exchange or knowing look before they enter danger.
+2. **During combat:** Shai notices when Kanan is exposed; Kanan instinctively covers her blind side. Keep combat callouts short.
+3. **After combat:** one checks the other's injuries; relief may come out as irritation or a quiet touch.
+4. **Disagreement:** one takes a reckless risk; the other calls it out because the fear underneath is real.
+5. **Quiet moments:** shared looks, a hand on the shoulder, or a small private joke can communicate more than a long speech.
+
+### Sample Dockside interaction — draft
+**Placement:** Optional pre-stage scene when the player selects Kanan + Shai.
+
+Shai catches Kanan checking the alley and then glances at the fresh scrape on his arm.
+
+**Shai:** “You know, most people say hello before they run off bleeding.”
+
+Kanan looks at the scrape, then back at her, as if it is nothing.
+
+**Shai:** “Don't give me that look. I know you.”
+
+Kanan reaches for her hand briefly, then points toward the warehouse entrance.
+
+**Shai:** “Work first. Lecture later?”
+
+Kanan gives a small nod.
+
+**Shai:** “Good. And try not to make me worry this time.”
+
+Kanan pauses, meets her eyes, and gives her hand one reassuring squeeze before moving out.
+
+**Status:** The relationship itself and the requested interaction tone are user-confirmed canon. The sample dialogue and exact staging are drafts for review, not line-by-line approved.
+
+### Continuity guardrails
+- Kanan + Shai scenes are distinct from Kanan + Jaylen's brotherly banter.
+- If the player selects Shai with another partner, do not play Kanan/Shai romantic scenes.
+- If Kanan and Shai are both present, their relationship may inform optional banter and support animations, while the main plot remains coherent for other team combinations.
+- The campaign should not assume the player always chooses them together; preserve their relationship in story continuity even when the player selects a different partner.
