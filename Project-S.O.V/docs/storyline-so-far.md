@@ -175,5 +175,14 @@ These mission titles and prototypes are documented, but the complete dialogue an
 - The full ending after the defeat of Ali/Kingpin and how each fighter's story resolves.
 - Full dialogue scripts, cutscenes, and stage transitions.
 
+
+## Brick boss battle gimmick — Flying Bricks (approved 2026-11-09)
+This environmental-combat gimmick applies to Brick's boss battles. Loose bricks are scattered around the arena so players can pick them up and throw them at Brick.
+- A successful brick hit interrupts Brick's current attack and briefly staggers him, creating an opening for a melee combo.
+- Each thrown brick breaks on impact; the supply is limited by the bricks placed in the arena, so players must make deliberate use of them.
+- Character-specific flavor: Kanan and Jaylen/Coldman throw with strong power; Shai can throw quickly to interrupt Brick; Nona can use a brick to create an opening for a counter; Jenni can kick a loose brick toward Brick with her Taekwondo skills rather than picking it up.
+- A special finishing animation for a final blow delivered by a thrown brick is an approved idea; exact animation and implementation details remain to be designed.
+- Brick reacts with increased fury when struck by a brick, reinforcing his reckless, raging boss personality. The gimmick does not replace his core aggressive moveset.
+
 ---
 This is the story recovered so far, not a claim that the entire screenplay is complete. New canon should be added only when confirmed; proposed connective scenes must be labeled as drafts.
