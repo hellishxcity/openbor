@@ -466,6 +466,11 @@ The above are design/story decisions, not proof that the features are implemente
 
 **Kanan:** "Only when they're as cute as you."
 
+**Shai:** "Well, you can jump into all my fights, too."
+
+*Kanan's grin lingers. Shai gives him a playful look, making it clear she is teasing him—but also leaving the door open to seeing him again.*
+
+
 **Shai:** "Well, next time, ask first."
 
 **Kanan:** "Next time?"
