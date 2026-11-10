@@ -386,3 +386,15 @@ The above are design/story decisions, not proof that the features are implemente
 - Kanan remains a street-fighting/martial-arts character; do not give him a katana.
 - Do not interpret “overprotective” as a reason to make him controlling or to remove Shai's ability to fight and make her own decisions.
 - Detailed biography, age, appearance, history, and exact move list remain open unless already established in source material.
+
+
+## 16. Character Bible — Jaylen “Coldman” Jaxon: AI Partner Behavior
+
+**Status: Confirmed direction from the user's November 10 description.**
+
+- When Jaylen is controlled by the game's AI as a partner, his behavior should be aggressive rather than passive or purely defensive.
+- He actively tries to keep enemies away from Shai.
+- His partner AI should prioritize threats that are closing in on, attacking, or surrounding Shai, and engage those enemies decisively.
+- This is a protective combat role expressed through aggression: intercept threats, pressure attackers, and create space for Shai.
+- This note defines Jaylen's AI-partner behavior; it does not change his established wrestling/street-brawling fighting style or establish any unconfirmed relationship details.
+- Exact targeting weights, leash distance, and tactical rules remain to be designed and tested.
