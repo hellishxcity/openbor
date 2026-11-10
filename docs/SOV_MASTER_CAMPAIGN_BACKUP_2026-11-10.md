@@ -414,3 +414,12 @@ The above are design/story decisions, not proof that the features are implemente
 - This gives him a distinct bruiser/tank-like identity that complements his aggressive protective AI behavior when partnered with Shai.
 - Preserve meaningful danger: enemies can still hurt and defeat him, but he withstands more punishment than the rest of the roster.
 - Exact damage-reduction percentage, health values, and balance tuning remain open for playtesting.
+
+
+### Jaylen “Coldman” Jaxon — movement speed
+**Status: Confirmed design direction from the user's November 10 description.**
+
+- Jaylen is slightly slower than the other playable characters.
+- His movement speed must still let him keep up with the team and remain alongside Shai during partner play.
+- The small speed tradeoff complements his higher durability and bruiser role; do not make him so slow that he gets left behind.
+- Exact movement-speed values remain open for balance testing.
