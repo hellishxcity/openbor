@@ -398,3 +398,9 @@ The above are design/story decisions, not proof that the features are implemente
 - This is a protective combat role expressed through aggression: intercept threats, pressure attackers, and create space for Shai.
 - This note defines Jaylen's AI-partner behavior; it does not change his established wrestling/street-brawling fighting style or establish any unconfirmed relationship details.
 - Exact targeting weights, leash distance, and tactical rules remain to be designed and tested.
+
+
+### Jaylen's protective partner move — confirmed
+- The user approved a special protective move for Jaylen when he is AI-controlled alongside Shai.
+- If an enemy attacks or closes in on Shai, Jaylen can intercept, grab that enemy, and violently throw them away from her, creating immediate space.
+- Treat this as a signature AI-partner intervention. Exact animation, trigger conditions, cooldown, and whether it is also player-commandable remain to be designed.
