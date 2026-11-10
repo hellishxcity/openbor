@@ -445,3 +445,33 @@ The above are design/story decisions, not proof that the features are implemente
 - Their relationship began with mutual respect and admiration: Kanan impressed Shai, then Shai impressed Kanan.
 - Preserve the important balance: Kanan is overprotective of Shai, but he fell for a woman who had already shown she could stand up for herself. Shai is not a damsel in distress.
 - The exact location, dialogue, ages, and timeline of this first meeting remain open; do not invent them as established canon.
+
+
+## 20. Shai and Kanan — first-meeting dialogue sketch
+**Status: Draft scene based on the user's approved meet-cute concept; the score exchange is the key beat.**
+
+*The last of the men Shai fought hits the pavement. The alley falls quiet except for the distant traffic. Kanan stands a few steps away, watching her with a look of genuine respect.*
+
+**Shai:** "My score to your two."
+
+*Kanan looks at her. For a moment he keeps his usual serious expression—then a grin breaks through.*
+
+**Kanan:** "I guess I gotta catch up."
+
+**Shai:** "You can try."
+
+*He gives a quiet laugh. Shai starts walking, then glances back to see if he's coming.*
+
+**Shai:** "You always jump into other people's fights?"
+
+**Kanan:** "Only when somebody needs a hand."
+
+**Shai:** "Well, next time, ask first."
+
+**Kanan:** "Next time?"
+
+**Shai:** *with a teasing smile* "You heard me."
+
+*Kanan falls into step beside her. Neither says much after that, but both leave knowing they've met someone worth remembering.*
+
+**Character note:** Kanan's grin is rare, which makes this moment stand out. Shai's confidence and teasing establish that she can meet him as an equal. Their bond starts with mutual respect, not dependence.
