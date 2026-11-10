@@ -480,3 +480,152 @@ The above are design/story decisions, not proof that the features are implemente
 *Kanan falls into step beside her. Neither says much after that, but both leave knowing they've met someone worth remembering.*
 
 **Character note:** Kanan's grin is rare, which makes this moment stand out. Shai's confidence and teasing establish that she can meet him as an equal. Their bond starts with mutual respect, not dependence.
+
+
+## 21. Jenni “Legs” Rows — Character Bible and Moveset
+**Status: User-approved character direction, November 10, 2026.**
+
+### Personality and role
+- Confident, playful, sharp-witted, sarcastic, and strong-willed.
+- Doesn't back down and doesn't need to prove herself.
+- Her undercover police experience gives her sharp instincts and investigative skills.
+- Gets serious when innocent people are in danger.
+- Her humor and attitude should contrast with her professional, focused side when a situation turns dangerous.
+- Combat identity: fast, agile, taekwondo-based fighter with devastating kicks.
+
+### Fighting style
+- Lightning-fast kicks and combinations.
+- Spinning and jumping kicks, high kicks, sweeps, counters, and aerial attacks.
+- Uses speed, precision, and acrobatics as her defining combat strengths.
+- Her nickname “Legs” should be reflected in her distinctive kick-heavy fighting style.
+
+### Signature moves — current design
+1. **Cyclone Kick:** Jenni spins rapidly, striking multiple nearby enemies with a series of powerful kicks. Area attack.
+2. **Sky Breaker:** Jenni jumps into the air and delivers multiple consecutive stomps to enemies beneath her, transitions into a forward flip, then drives a crushing downward axe kick into her primary target. The repeated stomps deliver successive hits; the final axe kick deals heavy damage and knockdown. This is the full, corrected sequence; do not omit the front flip or final axe kick.
+3. **Lightning Legs:** A rapid chain of kicks that overwhelms one enemy before finishing with a heavy knockback kick.
+4. **Leg Sweep:** A fast low spinning sweep that knocks nearby enemies off their feet.
+5. **Leg Lightning:** Jenni jumps toward her target, comes down with a powerful stomp, flips forward, and drives a crushing downward axe kick into the target. This is a focused single-target attack.
+   
+### Sky Breaker / Leg Lightning distinction
+- **Sky Breaker** is the multi-target version: multiple aerial stomps, forward flip, crushing downward axe kick into the primary target.
+- **Leg Lightning** is the focused single-target version: jumping stomp, forward flip, crushing downward axe kick.
+- They share an acrobatic visual language but have different targeting/gameplay roles. This distinction was agreed in the conversation; exact animation timings and balance values remain open.
+
+## 22. Tag-Team / Co-op Attack Roster — 42 Proposed Attacks
+**Status: Full roster mapped as a proposal for review; not yet individually approved or implemented.** The user asked to map out all 42 attacks and then requested the same roster be resent text-only. Preserve the move names and descriptions below as the current proposal, while retaining the distinction between proposed and approved material.
+
+### Roster math
+- Seven characters are included in the co-op system: Kanan, Jaylen, Shai, Jenni, Nona, Romeo, and Mei Lin.
+- Five starting characters create 10 unique pairings, with two attacks per pairing = 20 starting-roster attacks.
+- Adding Romeo and Mei Lin creates 11 additional unique pairings, with two attacks per pairing = 22 unlockable-roster attacks.
+- Total: 21 unique pairings × 2 attacks = **42 proposed attacks**.
+- Romeo Wells and Mei Lin are secret unlockable characters after completing the main Story Mode. Their bonus Story Mode remains deferred.
+- Pairing list is exhaustive and non-duplicated: 10 pairings among the five starting characters; 5 Romeo pairings with the starting roster; 5 Mei Lin pairings with the starting roster; 1 Romeo + Mei Lin pairing.
+
+### Part 1 — Starting roster (20 attacks)
+
+#### Kanan “Scorpion” Jaxon
+**Kanan + Jaylen**
+1. **Scorpion Home Run:** Kanan launches an enemy with a Scorpion Strike; Jaylen grabs and throws them into another enemy.
+2. **Wrecking Duo:** Jaylen grabs two enemies while Kanan delivers a powerful spinning kick to knock them away.
+
+**Kanan + Shai**
+3. **Lover's Quarrel:** Established signature co-op special. A coordinated combination of martial arts strikes ending in a synchronized finisher.
+4. **Heartbreaker:** Shai sweeps an enemy off balance; Kanan follows with a devastating Scorpion Strike.
+
+**Kanan + Jenni**
+5. **Scorpion Cyclone:** Kanan draws enemies into range; Jenni unleashes her spinning kick combination.
+6. **Double Venom:** Kanan launches an enemy upward; Jenni follows with a jumping kick and Kanan finishes with a powerful strike.
+
+**Kanan + Nona**
+7. **Royal Sting:** Nona catches an enemy with a stylish strike; Kanan follows with a Scorpion Strike.
+8. **Beauty and the Scorpion:** Nona attacks a group while Kanan delivers a powerful finishing blow to the strongest enemy.
+
+#### Jaylen “Coldman” Jaxon
+**Jaylen + Shai**
+9. **Cold Snap:** Jaylen throws an enemy into Shai's rapid combination.
+10. **Double Impact:** Shai launches an enemy with a kick; Jaylen catches them and slams them down.
+
+**Jaylen + Jenni**
+11. **Home Run Special:** Jaylen throws an enemy into the air; Jenni connects with a spectacular aerial kick combo.
+12. **Cold Lightning:** Jenni attacks with rapid kicks while Jaylen charges through the remaining enemies.
+
+**Jaylen + Nona**
+13. **Cold Beauty:** Jaylen grabs and holds an enemy while Nona delivers a powerful finishing strike.
+14. **Beauty's Bouncer:** Nona knocks enemies toward Jaylen, who throws them back into the crowd.
+
+#### Shai Hooks
+**Shai + Jenni**
+15. **Double Trouble:** Shai attacks from one side while Jenni attacks from the other.
+16. **Sky Sisters:** Shai launches an enemy; Jenni finishes with her Sky Breaker aerial stomp sequence.
+
+**Shai + Nona**
+17. **Pretty Dangerous:** Nona distracts the enemy while Shai lands a fast combination.
+18. **Sister Act:** Both fighters deliver synchronized strikes, finishing with simultaneous kicks.
+
+#### Jenni “Legs” Rows
+**Jenni + Nona**
+19. **Beauty and the Beast:** Nona catches enemies with a powerful attack while Jenni unleashes an aerial kick finisher.
+20. **Legs for Days:** Jenni delivers a rapid kick sequence while Nona finishes the combo with a heavy strike.
+
+### Part 2 — Unlockable roster (22 attacks)
+
+#### Romeo Wells
+**Romeo + Kanan**
+21. **Scorpion's Rival:** Kanan launches an enemy; Romeo follows with a rapid aerial strike.
+22. **Venomous Alliance:** Romeo distracts the enemy with quick attacks while Kanan delivers Scorpion Strike.
+
+**Romeo + Jaylen**
+23. **Cold Blooded:** Jaylen grabs an enemy and Romeo delivers a powerful finishing kick.
+24. **Out of Bounds:** Romeo sends an enemy toward Jaylen, who throws them across the screen.
+
+**Romeo + Shai**
+25. **Trouble Makers:** Shai starts a fast combination; Romeo follows with a spinning attack.
+26. **Double Cross:** Romeo trips an enemy while Shai delivers a powerful follow-up.
+
+**Romeo + Jenni**
+27. **Lightning Rebellion:** Jenni launches an enemy; Romeo follows with an aerial combination.
+28. **Fast and Furious:** Both fighters unleash alternating rapid attacks before a synchronized finisher.
+
+**Romeo + Nona**
+29. **Dangerous Attraction:** Nona distracts enemies while Romeo attacks from behind.
+30. **Pretty Reckless:** Nona delivers a heavy strike and Romeo finishes with a flying kick.
+
+#### Mei Lin
+**Mei Lin + Kanan**
+31. **Shadow Scorpion:** Mei Lin delivers rapid precision strikes while Kanan finishes with Scorpion Strike.
+32. **Dragon's Sting:** Kanan launches an enemy; Mei Lin delivers a powerful airborne kick.
+
+**Mei Lin + Jaylen**
+33. **Iron Dragon:** Mei Lin uses fast strikes to stagger enemies while Jaylen throws them aside.
+34. **Dragon Hammer:** Jaylen grabs an enemy and Mei Lin delivers a spinning kick to finish.
+
+**Mei Lin + Shai**
+35. **Twin Dragons:** Both fighters unleash synchronized martial arts combinations.
+36. **Crossfire:** Shai sweeps enemies into Mei Lin's rapid spinning kick attack.
+
+**Mei Lin + Jenni**
+37. **Dragon Lightning:** Mei Lin launches an enemy; Jenni finishes with Leg Lightning.
+38. **Storm Sisters:** Both fighters perform alternating aerial kicks against a group.
+
+**Mei Lin + Nona**
+39. **Golden Beauty:** Nona knocks an enemy into Mei Lin's precision strike combination.
+40. **Silk and Steel:** Nona delivers a powerful opening attack while Mei Lin finishes with a rapid series of kicks.
+
+#### Romeo Wells + Mei Lin
+41. **Dragon Rebellion:** Mei Lin launches enemies with a spinning kick while Romeo rushes through the group with a powerful finishing combination.
+42. **Shadow Storm:** Romeo distracts the enemies while Mei Lin performs a rapid aerial attack, ending with both fighters striking simultaneously.
+
+### Proposed co-op gameplay rules
+1. Every co-op attack should have its own animation and recognizable finish.
+2. Co-op attacks should consume special meter, with stronger attacks costing more.
+3. Enemies should be vulnerable to the combo, but bosses should have appropriate resistance.
+4. Both characters should have a meaningful role in the animation.
+5. Romeo and Mei Lin's co-op attacks remain locked until their characters are unlocked after main Story Mode completion.
+6. The activation method (AI partner, local co-op, or online co-op) remains undecided; do not assume multiplayer implementation.
+
+### Important continuity notes
+- **Lover's Quarrel** remains Kanan and Shai's established signature co-op special.
+- **Home Run Special** is the proposed Jaylen + Jenni attack: Jaylen throws an enemy into the air and Jenni connects with an aerial kick combo.
+- The user liked the overall co-op attack concept and asked to see the full roster again. The roster remains proposed pending move-by-move approval.
+- These are design proposals, not proof of implemented or playable attacks.
