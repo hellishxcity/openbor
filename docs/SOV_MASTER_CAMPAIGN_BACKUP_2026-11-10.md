@@ -404,3 +404,13 @@ The above are design/story decisions, not proof that the features are implemente
 - The user approved a special protective move for Jaylen when he is AI-controlled alongside Shai.
 - If an enemy attacks or closes in on Shai, Jaylen can intercept, grab that enemy, and violently throw them away from her, creating immediate space.
 - Treat this as a signature AI-partner intervention. Exact animation, trigger conditions, cooldown, and whether it is also player-commandable remain to be designed.
+
+
+### Jaylen “Coldman” Jaxon — durability distinction
+**Status: Confirmed design direction from the user's November 10 description.**
+
+- Jaylen should be noticeably tougher and more durable than the other playable characters.
+- He takes reduced damage when enemies hit him; he is not literally invulnerable or indestructible.
+- This gives him a distinct bruiser/tank-like identity that complements his aggressive protective AI behavior when partnered with Shai.
+- Preserve meaningful danger: enemies can still hurt and defeat him, but he withstands more punishment than the rest of the roster.
+- Exact damage-reduction percentage, health values, and balance tuning remain open for playtesting.
