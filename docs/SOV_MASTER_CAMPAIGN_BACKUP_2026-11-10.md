@@ -432,3 +432,16 @@ The above are design/story decisions, not proof that the features are implemente
 - Do not assign Kanan's overprotective trait to Jaylen “Coldman” Jaxon.
 - Jaylen's separate confirmed traits remain: aggressive AI partner behavior to keep enemies away from Shai, a protective grab-and-throw intervention, higher durability/reduced incoming damage, and slightly slower movement while still keeping up with the team.
 - Kanan's overprotectiveness should be expressed through his relationship and story/co-op behavior, while preserving Shai's independence and combat agency.
+
+
+## 19. Shai Hooks and Kanan Jaxon — how they first got together
+**Status: Confirmed relationship backstory from the user's November 10 description.**
+
+- Before they became a couple, two men were bothering Shai.
+- Kanan stepped in and took the two men out. Shai was impressed by his courage and fighting ability.
+- The men returned with several friends, apparently expecting to turn the tables.
+- This time Shai handled the group herself, fighting them off in front of Kanan.
+- Kanan was impressed by Shai's skill, confidence, and ability to defend herself.
+- Their relationship began with mutual respect and admiration: Kanan impressed Shai, then Shai impressed Kanan.
+- Preserve the important balance: Kanan is overprotective of Shai, but he fell for a woman who had already shown she could stand up for herself. Shai is not a damsel in distress.
+- The exact location, dialogue, ages, and timeline of this first meeting remain open; do not invent them as established canon.
