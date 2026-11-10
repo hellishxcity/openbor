@@ -336,3 +336,25 @@ Test first with one Kanan versus one Dockside Thug, then multiple thugs and mult
 - Mark new ideas as proposals until the user approves them.
 - Do not conflate S.O.V. with NinaStorm, Bricks Business, or The Violent Streets sequel.
 - Never describe a design checklist or pseudocode as implemented or playable until verified in the actual OpenBOR build.
+
+
+## 14. Continuity additions confirmed in the November 10 discussion
+
+These details were specifically raised by the user as part of the previous day's work and are now included in the master continuity record. Preserve them; do not downgrade them to speculative ideas.
+
+### Character and relationship story threads
+- **Jay** is Brick's ex-girlfriend. Jay is a distinct character from **Jay Brooks**, the dock contact rescued during “The Safe Signal.”
+- **Brick** is a mad, volatile man whose behavior is affected by experimental drugs. His drug-related rage is part of his character/story. Keep his established returning boss encounter in King's Territory; his first appearance is still unresolved.
+- **Romeo** is stalking and plotting against **Jaylen**. Preserve this as an active story thread. The exact scenes, motive, and timing need to be recovered or developed without changing the established premise.
+- **Shai / Shay** was discussed as part of the previous day's character work. The current roster spells the playable character **Shai Hooks**; the transcript also contains the spoken spelling “Shay.” Retain Shai Hooks provisionally and do not silently create a second character. Confirm spelling if the user corrects it.
+- The user explicitly identified the prior day's covered material as the introduction, tutorial, “The Safe Signal,” Shai, Jay/Brick's past relationship, Brick's experimental-drug storyline, and Romeo's stalking/plotting against Jaylen.
+
+### Environmental combat — additional detail
+The user specifically asked whether the combat design included throwable bricks, doors, and car parts. Preserve these mechanics in the combat design:
+- **Bricks:** loose bricks can be picked up and thrown at enemies. During Brick boss battles, players can use bricks as a special environmental gimmick and hit Brick with bricks.
+- **Car doors:** cars can be damaged; doors can be ripped off and used as improvised weapons. The design discussion includes swinging a detached door as a melee weapon and throwing it at enemies.
+- **Other environmental destruction:** retain the established ability to send enemies through breakable doors, windows, and walls; use cars, trash cans, and smaller breakable objects as impact targets; breakable scenery can expose paths, evidence, or collectibles.
+- **Character-specific environmental strength:** Shai and Nona can knock enemies into smaller breakable objects, cars, and trash cans. Kanan and Jaylen/Coldman can send enemies through walls, doors, and windows. Preserve the original character assignments unless the user changes them.
+
+### Status discipline
+The above are design/story decisions, not proof that the features are implemented in a playable build. Mark them as **confirmed design canon** and track implementation separately. Keep the distinction between Jay and Jay Brooks visible anywhere both names appear.
