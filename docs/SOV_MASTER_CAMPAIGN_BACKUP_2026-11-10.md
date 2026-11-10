@@ -358,3 +358,31 @@ The user specifically asked whether the combat design included throwable bricks,
 
 ### Status discipline
 The above are design/story decisions, not proof that the features are implemented in a playable build. Mark them as **confirmed design canon** and track implementation separately. Keep the distinction between Jay and Jay Brooks visible anywhere both names appear.
+
+
+## 15. Character Bible — Kanan “Scorpion” Jaxon
+
+**Status: Confirmed character direction from the user's November 10 description.**
+
+### Personality
+- Serious, reserved, and not very talkative.
+- Protective of Shai, with a particularly strong overprotective streak toward her.
+- His quiet nature is intentional; he communicates more through actions, expressions, and occasional short lines than long conversations.
+
+### Fighting identity
+- Highly skilled in martial arts and karate.
+- Delivers very strong, powerful attacks while retaining speed and agility.
+- Fast, capable dodger with a broad variety of moves, skills, and attacks.
+- His combat identity balances force and mobility rather than making him a slow, heavy fighter.
+- Preserve his established Scorpion fighting style and signature **Scorpion Strike**.
+- Preserve the five-hit combo system and character-specific moveset.
+
+### Relationship
+- Shai Hooks is his fiancée/romantic partner in the existing campaign notes.
+- His protectiveness toward Shai is a defining character trait. It should inform story scenes and co-op interactions without reducing Shai's independence or agency.
+- Their established co-op special is **Lover's Quarrel**.
+
+### Continuity constraints
+- Kanan remains a street-fighting/martial-arts character; do not give him a katana.
+- Do not interpret “overprotective” as a reason to make him controlling or to remove Shai's ability to fight and make her own decisions.
+- Detailed biography, age, appearance, history, and exact move list remain open unless already established in source material.
