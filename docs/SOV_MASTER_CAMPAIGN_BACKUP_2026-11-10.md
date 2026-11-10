@@ -464,7 +464,7 @@ The above are design/story decisions, not proof that the features are implemente
 
 **Shai:** "You always jump into other people's fights?"
 
-**Kanan:** "Only when somebody needs a hand."
+**Kanan:** "Only when they're as cute as you."
 
 **Shai:** "Well, next time, ask first."
 
