@@ -423,3 +423,12 @@ The above are design/story decisions, not proof that the features are implemente
 - His movement speed must still let him keep up with the team and remain alongside Shai during partner play.
 - The small speed tradeoff complements his higher durability and bruiser role; do not make him so slow that he gets left behind.
 - Exact movement-speed values remain open for balance testing.
+
+
+### Relationship/protectiveness correction — Kanan and Shai
+**Status: Explicit user correction, November 10, 2026.**
+
+- Kanan “Scorpion” Jaxon is the character who is overprotective of Shai Hooks.
+- Do not assign Kanan's overprotective trait to Jaylen “Coldman” Jaxon.
+- Jaylen's separate confirmed traits remain: aggressive AI partner behavior to keep enemies away from Shai, a protective grab-and-throw intervention, higher durability/reduced incoming damage, and slightly slower movement while still keeping up with the team.
+- Kanan's overprotectiveness should be expressed through his relationship and story/co-op behavior, while preserving Shai's independence and combat agency.
